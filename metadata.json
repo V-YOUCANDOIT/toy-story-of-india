@@ -1,0 +1,8 @@
+{
+  "name": "Petit Atelier",
+  "description": "Thoughtfully curated heirloom toys, Montessori learning objects, and imaginative playthings crafted for little moments and big imagination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
